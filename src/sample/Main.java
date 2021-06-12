@@ -3,6 +3,7 @@ package sample;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("Hello Universe");
+        System.out.println("Bye Bye Universe");
     }
 }
